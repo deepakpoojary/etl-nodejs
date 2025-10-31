@@ -13,6 +13,12 @@
     "ocr_text": "Revenue 2023"
   },
   {
+    "type": "paragraph",
+    "text": "Machine learning models are helping businesses improve decision-making.",
+    "page": 1,
+    "bbox": [100, 520, 420, 560]
+  },
+  {
     "type": "table",
     "page": 2,
     "bbox": [80, 150, 500, 400],
@@ -23,5 +29,122 @@
       { "text": "$1M", "bbox": [150, 180, 220, 210] }
     ],
     "csv": "Year,2022\nRevenue,$1M"
+  },
+  {
+    "type": "paragraph",
+    "text": "Automation has significantly increased productivity across logistics and manufacturing sectors.",
+    "page": 2,
+    "bbox": [100, 420, 500, 460]
+  },
+  {
+    "type": "image",
+    "uri": "images/factory_robots.png",
+    "page": 2,
+    "bbox": [60, 480, 300, 650],
+    "ocr_text": "Factory robotics"
+  },
+  {
+    "type": "paragraph",
+    "text": "AI-powered systems are enhancing healthcare diagnostics and treatment accuracy.",
+    "page": 3,
+    "bbox": [100, 200, 480, 240]
+  },
+  {
+    "type": "image",
+    "uri": "images/medical_ai_scan.png",
+    "page": 3,
+    "bbox": [90, 260, 310, 500],
+    "ocr_text": "CT scan analysis"
+  },
+  {
+    "type": "paragraph",
+    "text": "Natural language processing enables better customer interaction through chatbots.",
+    "page": 3,
+    "bbox": [100, 520, 480, 560]
+  },
+  {
+    "type": "table",
+    "page": 4,
+    "bbox": [70, 160, 480, 360],
+    "cells": [
+      { "text": "Region", "bbox": [70, 160, 150, 190] },
+      { "text": "North America", "bbox": [150, 160, 300, 190] },
+      { "text": "Revenue", "bbox": [70, 190, 150, 220] },
+      { "text": "$2.5M", "bbox": [150, 190, 220, 220] },
+      { "text": "Growth", "bbox": [70, 220, 150, 250] },
+      { "text": "15%", "bbox": [150, 220, 220, 250] }
+    ],
+    "csv": "Region,Revenue,Growth\nNorth America,$2.5M,15%"
+  },
+  {
+    "type": "paragraph",
+    "text": "AI ethics and data privacy remain top concerns for regulatory agencies.",
+    "page": 4,
+    "bbox": [100, 380, 500, 420]
+  },
+  {
+    "type": "image",
+    "uri": "images/privacy_chart.png",
+    "page": 4,
+    "bbox": [60, 440, 320, 600],
+    "ocr_text": "User consent graph"
+  },
+  {
+    "type": "paragraph",
+    "text": "Investment in AI startups continues to rise globally.",
+    "page": 5,
+    "bbox": [100, 200, 420, 240]
+  },
+  {
+    "type": "table",
+    "page": 5,
+    "bbox": [80, 260, 480, 460],
+    "cells": [
+      { "text": "Company", "bbox": [80, 260, 200, 290] },
+      { "text": "Funding", "bbox": [200, 260, 300, 290] },
+      { "text": "AI Corp", "bbox": [80, 290, 200, 320] },
+      { "text": "$10M", "bbox": [200, 290, 300, 320] },
+      { "text": "SmartVision", "bbox": [80, 320, 200, 350] },
+      { "text": "$5M", "bbox": [200, 320, 300, 350] }
+    ],
+    "csv": "Company,Funding\nAI Corp,$10M\nSmartVision,$5M"
+  },
+  {
+    "type": "paragraph",
+    "text": "Education is adapting to include AI and data science courses worldwide.",
+    "page": 5,
+    "bbox": [100, 480, 500, 520]
+  },
+  {
+    "type": "image",
+    "uri": "images/ai_education.png",
+    "page": 6,
+    "bbox": [50, 180, 280, 400],
+    "ocr_text": "AI in classroom"
+  },
+  {
+    "type": "paragraph",
+    "text": "AI-driven analytics are providing insights that were impossible a decade ago.",
+    "page": 6,
+    "bbox": [100, 420, 480, 460]
+  },
+  {
+    "type": "paragraph",
+    "text": "The future of AI will depend heavily on ethical frameworks and public trust.",
+    "page": 7,
+    "bbox": [100, 200, 500, 240]
+  },
+  {
+    "type": "image",
+    "uri": "images/future_ai.png",
+    "page": 7,
+    "bbox": [60, 260, 280, 480],
+    "ocr_text": "AI 2030 projection"
+  },
+  {
+    "type": "paragraph",
+    "text": "In conclusion, AI represents both an opportunity and a responsibility for all sectors.",
+    "page": 8,
+    "bbox": [100, 200, 500, 240]
   }
 ]
