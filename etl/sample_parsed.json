@@ -1,0 +1,27 @@
+[
+  {
+    "type": "paragraph",
+    "text": "Artificial intelligence is transforming industries worldwide.",
+    "page": 1,
+    "bbox": [100, 200, 400, 240]
+  },
+  {
+    "type": "image",
+    "uri": "images/page1_chart.png",
+    "page": 1,
+    "bbox": [50, 300, 250, 500],
+    "ocr_text": "Revenue 2023"
+  },
+  {
+    "type": "table",
+    "page": 2,
+    "bbox": [80, 150, 500, 400],
+    "cells": [
+      { "text": "Year", "bbox": [80, 150, 150, 180] },
+      { "text": "2022", "bbox": [150, 150, 220, 180] },
+      { "text": "Revenue", "bbox": [80, 180, 150, 210] },
+      { "text": "$1M", "bbox": [150, 180, 220, 210] }
+    ],
+    "csv": "Year,2022\nRevenue,$1M"
+  }
+]
